@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Website Home",
+    "description": "In this section you'll find info about frameworks web development application e-commerce solution. Also my frontend works.",
+    "url": "https://opengateweb.com"
+  },
+  {
+    "id": 2,
+    "name": "Website Docs",
+    "description": "This is very simple CRUD. Is based on local store and deployed to github hosting/pages.",
+    "url": "https://opengateweb.com/docs"
+  },
+  {
+    "id": 3,
+    "name": "Website Portfolio",
+    "description": "Information website JakoscElevator.pl with Bootstrap Framework and both English and Polish translation. Dev ops with domain transfer and hosting.",
+    "url": "https://opengateweb.com/portfolio"
+  }
+]
