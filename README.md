@@ -1,2 +1,5 @@
-# openapi
+# db/fake openapi
 OpenGateWeb API
+Opengateweb.com/posts
+this fake api has been created for learning purposes
+# getUrl https://opengateweb.com/openapi.json
