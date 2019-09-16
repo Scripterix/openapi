@@ -6,4 +6,4 @@ this fake api has been created for learning purposes
 
 the ngFor & fetching data from json
 
-https://opengateweb.com/posts  & tab OpenApi
+https://opengateweb.com/posts  & tab OpenGateWebApi
